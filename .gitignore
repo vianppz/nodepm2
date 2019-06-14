@@ -1,0 +1,5 @@
+# 屏蔽
+.DS_Store
+
+
+.idea/
